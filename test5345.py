@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 films = {"Matrix":2004,"Drive":2010,"Last of Us":2017,"Jumanji":2022}
 
 player = {'name':'Adolf','level':'6','inventory':['water','gun','book']}
@@ -20,5 +21,6 @@ characters = {'player1':{'hp':100,'damage':20,'superpower':['magick','fly','tele
 print_hp()
 atack('player1','player2')
 print_hp()
+
 
 

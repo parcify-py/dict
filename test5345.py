@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 films = {"Matrix":2004,"Drive":2010,"Last of Us":2017,"Jumanji":2022}
 
 player = {'name':'Adolf','level':'6','inventory':['water','gun','book']}
